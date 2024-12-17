@@ -3,6 +3,6 @@
 
 
 ## Table of Contents
-- #Banner design
-- #Brand Design
-- #Resources
+- Banner design
+- Brand Design
+- Resources
